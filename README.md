@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image](https://user-images.githubusercontent.com/96749576/172029013-89498648-6b0b-4810-9c77-f32d7101dd81.png)
+![image](https://user-images.githubusercontent.com/96749576/172029050-69291347-d7aa-4e06-80fe-d9bd744f1cd2.png)
 
 
 **Timorig/Timorig** is a ✨ _special_ ✨ repository because it contains some info about me:
