@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/96749576/172029002-44e56875-526b-462b-9ded-b9355faf6cc1.png)
 
 **Timorig/Timorig** is a ✨ _special_ ✨ repository because it contains some info about me:
 
